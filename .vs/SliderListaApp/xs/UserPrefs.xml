@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2F361185-FD6E-49F2-B525-6BF6205A05B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SliderListaApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Origem Não Disponível">
+    <Files>
+      <File FileName="SliderListaApp/MainPage.xaml" Line="9" Column="65" />
+      <File FileName="SliderListaApp/MainPage.xaml.cs" Line="21" Column="13" />
+      <File FileName="Origem Não Disponível" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SliderListaApp.Android PreferredExecutionTarget="Android.0045978518" />
+</Properties>

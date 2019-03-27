@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:SliderListaApp" 
+             x:Class="SliderListaApp.MainPage">
+    
+    <ContentPage.ToolbarItems>
+        
+        <ToolbarItem Text="Buscar" Clicked="visualizarMunicipios"/>
+        
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout>
+        
+        <Label Text="UF" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"  
+               FontSize="50" 
+               x:Name="label_uf"
+               />
+        
+        <Slider Margin="20, 30, 20, 180"
+                x:Name="slider"
+                Minimum="0"
+                Maximum="26" 
+                ValueChanged="naMudancaDeValorDoSlider"
+                />
+        
+    </StackLayout>
+    
+</ContentPage>
